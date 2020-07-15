@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="firstSreenplay.features.LoginStory" skipped="0" tests="1" time="15.45" timestamp="2020-07-11 10:05:25"><testcase classname="firstSreenplay.features.LoginStory" name="Show caution message when login with account not authentication"/></testsuite>
